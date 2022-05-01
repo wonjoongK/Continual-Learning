@@ -1,2 +1,2 @@
 # Continual-Learning
-> This repository is for study and review the paper about Continual Learning 
+> This repository is for studying and reviewing the paper about Continual Learning 
