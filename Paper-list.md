@@ -2,7 +2,7 @@
 
 <br/>
 
-## Summary paper
+## Survey paper
 > Image domain  
 [A continual learning survey:Defying forgetting in classification tasks](https://arxiv.org/pdf/1909.08383.pdf)
 
